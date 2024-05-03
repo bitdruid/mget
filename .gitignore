@@ -41,7 +41,6 @@ examples/print_css_urls2
 examples/print_css_urls3
 examples/print_html_urls
 libmget/test_linking
-libmget/css_tokenizer.c
 gtk-doc.make
 INSTALL
 install-sh
